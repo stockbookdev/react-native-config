@@ -2,7 +2,11 @@
 
 ### Upcoming
 
-[Diff](https://github.com/luggit/react-native-config/compare/v0.11.5...master)
+### 0.11.6
+
+- Using SDK Version variables from root project (#1)
+
+[Diff](https://github.com/simpleweb/react-native-config/compare/v0.11.5...0.11.6)
 
 ### 0.11.5
 
